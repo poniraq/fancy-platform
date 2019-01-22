@@ -1,0 +1,19 @@
+{
+  "name": "fancy-platform",
+  "version": "0.0.1",
+  "description": "Shortcuts for os.platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poniraq/fancy-platform.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/poniraq/fancy-platform/issues"
+  },
+  "homepage": "https://github.com/poniraq/fancy-platform#readme"
+}
